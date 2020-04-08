@@ -1,0 +1,36 @@
+.main{
+    height: 100vh;
+    background-color: #3575b8;
+
+}
+.switch{
+    background-color: #f3f4f4;
+    height: 100%;
+    width: 100%;
+    margin: 0  ;
+    padding-left: 0;
+}
+.loginPage{
+    background-color: #f3f4f4;
+    height: 100%;
+    width: 80%;
+    margin: 0 10% 0 10% ;
+}
+.inputLogin{
+    padding-top: 25%;
+    justify-content: center;
+    text-align: center;
+}
+
+.email{
+    border: none;
+    text-decoration: none;
+    background-color: #f3f4f4;
+    border-bottom-style: solid;
+}
+.password{
+    border: none;
+    text-decoration: none;
+    background-color: #f3f4f4;
+    border-bottom-style: solid;
+}
